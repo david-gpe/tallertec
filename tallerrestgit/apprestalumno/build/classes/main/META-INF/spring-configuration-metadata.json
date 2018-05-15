@@ -1,0 +1,12 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "itssmt.taller.config.Datasource",
+      "name": "datasource",
+      "sourceMethod": "firstDataSource()",
+      "type": "javax.sql.DataSource"
+    }
+  ],
+  "properties": []
+}
